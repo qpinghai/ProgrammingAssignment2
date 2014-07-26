@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function Create Matrix
+## Write a short comment describing this function 
+##Create Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
